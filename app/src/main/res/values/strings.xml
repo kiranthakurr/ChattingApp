@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChatUp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    <string name="default_web_client_id" translatable="false">1014996006998-veli2lbuf4rjt3m5qhguevo1ei1vut2h.apps.googleusercontent.com</string>-->
+</resources>

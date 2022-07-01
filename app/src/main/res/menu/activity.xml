@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--    what is written in menu is title -->
+    <item android:title="Clear chat"
+        android:id="@+id/clear_chat"
+        />
+
+
+</menu>

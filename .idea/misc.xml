@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/bg.xml" value="0.2265" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/bg_linear_settings.xml" value="0.2225" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/bg_reciever_side.xml" value="0.2265" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/bg_save_btn.xml" value="0.2225" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/bg_sender_side.xml" value="0.2265" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/bg_transparent_activity.xml" value="0.2225" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/gradient_background.xml" value="0.2385" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2265" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2265" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2265" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/ic_fb.xml" value="0.2265" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/ic_google.xml" value="0.2265" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/loading.xml" value="0.2375" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/oval_bg.xml" value="0.2385" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/person.xml" value="0.1" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/drawable/shimmer_circle.xml" value="0.1" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_call_entry.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_call_kardo_bhai.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_chat_detail.xml" value="0.2" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_forgot_password.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_group_chat.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_new.xml" value="0.1" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_settings.xml" value="0.152" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/activity_transparent.xml" value="0.2" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/calls_page.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/fragment_cals.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/fragment_chat_fragment.xml" value="0.152" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/fragment_status.xml" value="0.2" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/item_status.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/sample_call_layout.xml" value="0.2" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/sample_chat_layout.xml" value="0.2" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/sample_reciever.xml" value="0.8800000000000001" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/sample_sender.xml" value="0.152" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/sample_status_layout.xml" value="0.176" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/layout/status_demo_layout.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/menu/activity.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/menu/menu.xml" value="0.2" />
+        <entry key="..\:/Users/thaku/AndroidStudioProjects/ChatUp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

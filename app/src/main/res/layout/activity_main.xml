@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+<!--    tablayout->view pager->on fragments-->
+<!--    replaced all tabitems with view pager because we want to switch between fragements-->
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#008786"
+        app:elevation="14dp"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/white"
+        app:tabMaxWidth="0dp"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/white"
+        app:tabTextColor="@color/white"
+        tools:ignore="SpeakableTextPresentCheck" />
+    <!--  hieght mostly inti hi hoti-->
+<!--    elevation utha hua-->
+<!--    tabIndicatorColor- indicator color hundi aa niche aali dandi-->
+<!--    tabSelectedTextColor-selected tab da colour-->
+<!--    tabMaxWidth - tab ki width acc to phone-->
+<!--    layout width -means tablayout ki width acc to phone-->
+<!--    tabGravity- expand kr j tab & fill container-->
+<!--    tabMode:fixed- tabs are scrollable, let them fixed-->
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/app_name" />
+</LinearLayout>
+
+
